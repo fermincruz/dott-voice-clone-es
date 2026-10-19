@@ -1,0 +1,16 @@
+# Local Python environment and downloaded model dependencies
+.venv/
+model_cache/
+vendor/
+
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Extracted game assets and generated audio
+# On audio_extracted, these source-derived files are intentionally trackable.
+source/
+test_output*/

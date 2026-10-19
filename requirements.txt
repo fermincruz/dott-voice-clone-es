@@ -1,0 +1,1 @@
+fsb5 @ git+https://github.com/BLooperZ/python-fsb5.git@817aa3cf60a69eb727494d89b1d804d90ff17cb2
